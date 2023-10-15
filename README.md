@@ -1,6 +1,6 @@
 # 42 Push_Swap
 
-![push_swap](src="https://github.com/codedmarve/push_swap/assets/93935663/2579b965-3eed-4e1a-b6c8-4a73ca1d7551">)
+<img width="481" alt="Screen Shot 2023-10-15 at 5 22 49 PM" src="https://github.com/codedmarve/push_swap/assets/93935663/89098c9f-141a-4f3b-adf8-92a72387f7cd">
 
 ## Overview
 
