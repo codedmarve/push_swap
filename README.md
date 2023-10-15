@@ -13,7 +13,7 @@ Push_Swap is a sorting algorithm project at 42vwolfburg that aims to sort a stac
 - **Duration:** 3 weeks
 
 ## 42 Student?
-If you are a 42 student and you still don't understand what is expected of you in this project or you find it difficult to begin your coding, then stay tuned, I will drop a very detailed step by step explanation to how I solved this project. In other not to spoil the fun and also help you become confident of your coding, you won't be seeing any codes but only logical expalnations. I will also give you tasks to help you complete the the project.
+If you are a 42 student and you still don't understand what is expected of you in this project or you don't know how to start, then stay tuned, I will drop a very detailed step-by-step explanation on how I approached this project. In other not to spoil the fun and also help you become confident of your coding skills, you won't be seeing any codes but only logical expalnations. I will also give you step-by-step tasks to help you complete the the project.
 
 ## Rules and Operations
 The project follows the following rules and operations:
